@@ -1,0 +1,4 @@
+#Sun Aug 06 00:21:05 CST 2017
+base.0=E\:\\Unity Projects\\FlappBirdProject\\android\\FlappyBird\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Unity Projects\\FlappBirdProject\\android\\FlappyBird\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

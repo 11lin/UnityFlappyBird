@@ -1,0 +1,7 @@
+Android相关帮助
+https://docs.unity3d.com/Manual/AndroidJARPlugins.html
+
+
+getCacheDir()然后可以调用Activity对象来获取表示缓存目录的File对象，getCanonicalPath()然后可以调用来获取字符串表示形式。
+
+Unity提供对应用程序的缓存和文件目录Application.temporaryCachePath以及Application.persistentDataPathAPI的访问

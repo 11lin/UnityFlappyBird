@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlappyBird</string>
+    <string name="back_exit_tips">再按一次返回键退出游戏</string>
+    <style name="UnityThemeSelector" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+</style>
+</resources>

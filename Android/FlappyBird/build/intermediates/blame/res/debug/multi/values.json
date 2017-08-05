@@ -1,0 +1,51 @@
+[
+    {
+        "outputFile": "E:\\Unity Projects\\FlappBirdProject\\android\\FlappyBird\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\Unity Projects\\FlappBirdProject\\android\\FlappyBird\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 54,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "E:\\Unity Projects\\FlappBirdProject\\android\\FlappyBird\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endLine": 5,
+                    "endColumn": 8,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "E:\\Unity Projects\\FlappBirdProject\\android\\FlappyBird\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

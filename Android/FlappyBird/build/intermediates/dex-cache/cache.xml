@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Unity Projects\FlappBirdProject\android\FlappyBird\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba0f969d0404f32b61d20daadd8e7c96c2048b4b">
+        <dex dex="E:\Unity Projects\FlappBirdProject\android\FlappyBird\build\intermediates\pre-dexed\debug\unity-classes_193e3a7a0f2315540c3a14ede37836915b6af308.jar" />
+    </item>
+
+</items>
